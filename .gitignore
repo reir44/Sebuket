@@ -23,5 +23,4 @@ npm-debug.log*
 # ---------- Cadangan & arsip ----------
 *.bak
 *.zip
-.env.example
-.gitignore
+
